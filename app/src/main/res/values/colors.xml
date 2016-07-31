@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff00abe3</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff39a751</color>
+    <color name="font_blue_grey">#ff637589</color>
+    <color name="light_font_blue_grey">#ff697b8f</color>
+    <color name="light_blue_grey">#ff515f6c</color>
+    <color name="dark_blue_grey">#ff293a4c</color>
+    <color name="blue_grey">#ff344860</color>
+    <color name="green">#ff39a751</color>
+    <color name="white">#fff5f5f5</color>
+    <color name="grey">#ffe3e3e3</color>
+    <color name="divider_color">#eeeeee</color>
+    <color name="red">#e71111</color>
+
+    <color name="chest">#cc00abe3</color>
+    <color name="biceps">#cce71111</color>
+    <color name="triceps">#cc47cb65</color>
+    <color name="legs">#cce89569</color>
+    <color name="back">#ccbba449</color>
+    <color name="shoulders">#cce71111</color>
+    <color name="black_semi_transparent">#B2000000</color>
+</resources>

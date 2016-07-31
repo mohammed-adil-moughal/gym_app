@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">Gym Assistant</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="routine">ROUTINE</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="help">HELP</string>
+    <string name="chest">CHEST</string>
+    <string name="shoulder">SHOULDER</string>
+    <string name="back">BACK</string>
+    <string name="legs">LEGS</string>
+    <string name="triceps">TRICEPS</string>
+    <string name="biceps">BICEPS</string>
+    <string name="diet">Diet</string>
+    <string name="suplements">Supplements</string>
+    <string name="exercises">Exercises</string>
+    <string name="timer">Timer</string>
+
+    <string name="massheader">Top 10 Foods To ADD Mass</string>
+    <string name="lossheader">Sample Weight Loss Diet</string>
+    <string name="massdetails">
+
+
+
+</string>
+    <string name="title_activity_supplements">Supplements</string>
+    <string name="bcaa">Do you find yourself experiencing muscle soreness and fatigue, but still not seeing the fat loss results you expect? If so, consider taking BCAAs. Researchers at the University of Birmingham in the UK recently found that study participants who took BCAAs before and after exercise had a significant reduction in muscle soreness. A Brazilian study took it a step further and revealed that BCAA supplementation helped reduce fatigue and burn more fat in glycogen-depleted participants.</string>
+    <string name="creatine">    Want to build strength and lean muscle mass? Try creatine. A group of Canadian researchers conducted an eight-week study and found that insulin-like growth factor-1 (IGF-I), which is known to produce anabolic effects in adults, increased by more than 20% among participants who supplemented with creatine and performed resistance-training exercises. Just be sure not to take excessive amounts, as various side effects have been reported. According to the European Food Safety Authority, creatine supplementation of three grams per day is a safe amount.</string>
+    <string name="proteins">    Ask any expert and they’ll tell you the importance of consuming protein before and after workouts to stimulate muscle growth. Unfortunately, few guys can schedule meals around workouts—and that’s where protein supplements, like powders and nutrition bars, come in handy. Need to eat and run? Forget the unhealthy, greasy fast food and grab a nutrition bar that’s high in quality protein and also provides you with essential fats and carbs. Have a little more time on your hands? Mix yourself a refreshing protein shake.</string>
+    <string name="acid">    Think all fat is bad? Think again. Conjugated Linoleic Acid (CLA) has omega fatty acids, also known as “good fat.” Researchers at the University of Wisconsin found that CLA could help you lose fat and help preserve your muscle tissue, according to a study originally published in the Journal of Nutrition. In the study, 71 participants who consumed CLA lost an average of six pounds. Be sure to get omega fatty acids through your diet or supplements.</string>
+    <string name="glutamine">    Is all that training making you feel run-down or even sick? If so, glutamine could help reduce inflammation and the risk of infection, according to research from the University of Trieste in Italy. Glutamine might also help stimulate muscle growth by regulating glycogen within your body, thereby boosting enhancing performance and muscle growth, according to research conducted at the University of Dundee in Scotland.</string>
+    <string name="multivits">    Can you hear your body talk? Presumably not—but if you could, it would probably tell you that working out takes a lot out of you, including the loss of vitamins that you need to sustain yourself. Unfortunately, research indicates that many who train hard while desperately trying to maintain a specific body weight are often vitamin-deficient. Multivitamins should help remedy that loss. Start your day off with this supplement and be sure to take only the recommended amount.</string>
+    <string name="weightlossdiet"></string>
+    <string name="title_activity_exchelper">Sample Excercises</string>
+    <string name="title_activity_chesthelper">Chesthelper</string>
+    <string name="flatbench"><b>BENCH PRESS</b>\r\n
+       Instructions\r\n
+
+\r\nPreparation\r\n
+
+    Lie supine on bench. Dismount barbell from rack over upper chest using wide oblique overhand grip. \r\n
+
+\r\nExecution
+\r\n
+    Lower weight to chest. Press bar upward until arms are extended. Repeat.  </string>
+    <string name="inclinebench"><b>INCLINE BARBELL PRESS</b>\r\n
+      Instructions\r\n
+
+\r\nPreparation\r\n
+
+    Lie supine on incline bench. Dismount barbell from rack over upper chest using wide oblique overhand grip. \r\n\r\n
+
+\r\nExecution\r\n
+
+    Lower weight to upper chest. Press bar until arms are extended. Repeat. </string>
+    <string name="Declinebench"><b>DECLINE BARBELL PRESS</b>\r\n
+      Instructions\r\n
+
+\r\nPreparation\r\n
+
+    Lie supine on decline bench with feet under leg brace. Dismount barbell from rack over chest using wide oblique overhand grip. \r\n
+
+\r\n\r\nExecution\r\n
+
+    Lower weight to chest. Press bar until arms are extended. Repeat.  </string>
+    <string name="DBpress"><b>DUMBELL PRESS</b>\r\n
+           Instructions\r\n
+
+\r\nPreparation\r\n
+
+    Sit down on bench with dumbbells resting on lower thigh. Kick weights to shoulder and lie back. Position dumbbells to sides of chest with bent arm under each dumbbell.
+
+\r\n\r\nExecution\r\n
+
+    Press dumbbells up with elbows to sides until arms are extended. Lower weight to sides of chest until slight stretch is felt in chest or shoulder. Repeat.
+
+\r\n\r\nComments\r\n
+
+    Dumbbells should follow slight arch pattern, above upper arm between elbow and chest at bottom, traveling inward over each shoulder at top. No need to drop weights
+           .</string>
+    <string name="DBdeclinepress"><b>DECLINE DUMBELL PRESS</b>\r\n
+           Instructions\r\n
+
+\r\nPreparation\r\n
+
+    Sit down on decline bench with feet under leg brace and dumbbells resting on thigh. Lie back with dumbbells. Position dumbbells to sides of chest with bent arm under each dumbbell.
+
+\r\n\r\nExecution\r\n
+
+    Press dumbbells up with elbows to sides until arms are extended. Lower weight to sides of chest until slight stretch is felt in chest or shoulder. Repeat.
+
+\r\n\r\nComments\r\n
+
+    Stirrup should follow slight arch pattern, above upper arm between elbow and chest at bottom, traveling inward over each shoulder at top. No need to drop weights
+           .</string>
+    <string name="dbflyes" translatable="false"><b>DUMBELL FLYES</b>\r\n
+          Instructions\r\n
+
+\r\n\r\nPreparation\r\n
+
+    Grasp two dumbbells. Lie supine on bench. Support dumbbells above chest with arms fixed in slightly bent position. Internally rotate shoulders so elbows point out to sides.
+
+\r\n\r\nExecution\r\n
+
+    Lower dumbbells to sides until chest muscles are stretched with elbows fixed in slightly bent position. Bring dumbbells together in wide hugging motion until dumbbells are nearly together. Repeat.
+
+\r\n\r\nComments\r\n
+
+    Keep shoulders internally rotated so elbows point downward at bottom position and outward at top position. Keep elbows at fixed angle, only slightly bent.</string>
+    <string name="dbincline" translatable="false"><b>INCLINE DUMBELL PRESS</b> \r\n
+Instructions
+
+\r\n\r\nPreparation\r\n
+
+    Sit down on incline bench with dumbbells resting on lower thigh. Kick weights to shoulders and lean back. Position dumbbells to sides of chest with upper arm under each dumbbell.
+
+\r\n\r\nExecution\r\n
+
+    Press dumbbells up with elbows to sides until arms are extended. Lower weight to sides of upper chest until slight stretch is felt in chest or shoulder. Repeat.
+
+\r\n\r\nComments\r\n
+
+    Dumbbell should follow slight arch pattern, above upper arm between elbow and chest at bottom, traveling inward over each shoulder at top.
+
+
+
+          </string>
+    <string name="dbpullover" translatable="false"><b>DUMBELL PULLOVER</b>\r\n
+        Instructions
+
+\r\nPreparation\r\n
+
+    Lie on upper back perpendicular to bench. Flex hips slightly. Grasp one dumbbell from behind or from side with both hands under inner plate of dumbbell. Position dumbbell over chest with elbows slightly bent.
+
+\r\n\r\nExecution\r\n
+
+    Keeping elbows slightly bent throughout movement, lower dumbbell over and beyond head until upper arms are in-line with torso. Pull dumbbell up and over chest. Repeat.
+
+\r\n\r\nComments\r\n
+
+    Lower body extending off of bench acts as counter balance to resistance and keeps upper back fixed on bench. Avoid hips from raising up significantly. Actual range of motion is dependent upon individual shoulder flexibility. Keep elbows fixed at small bend throughout exercise.
+
+
+    </string>
+    <string name="title_activity_backhelper">Backhelper</string>
+    <string name="deadlift">        With feet flat beneath bar, squat down and grasp bar with shoulder width or slightly wider overhand or mixed grip. Lift bar by extending hips and knees to full extension. Pull shoulders back at top of lift if rounded. Return and repeat. </string>
+    <string name="powerclean">            Pull bar up off floor by extending hips and knees. As bar reaches knees, vigorously raise shoulders while keeping barbell close to thighs. When barbell passes mid-thigh, allow it to contact thighs. Jump upward extending body. Shrug shoulders and pull barbell upward with arms, allowing elbows to flex out to sides, keeping bar close to body. Aggressively pull body under bar, rotating elbows around bar. Catch bar on shoulders while moving into squat position. Hitting bottom of squat, stand up immediately. </string>
+    <string name="chinups">                Step up and grasp bar with overhand wide grip. Pull body up until chin is above bar. Lower body until arms and shoulders are fully extended. Repeat.Added weight can be placed on dip belt or dumbbell can be placed between ankles.  </string>
+    <string name="bhneck">                Step up and grasp bar with overhand wide grip.Pull body up until bar touches back of neck. Lower body until arms and shoulders are fully extended. Repeat. </string>
+    <string name="latpulldown">                    Grasp cable bar with wide grip. Sit with thighs under supports. Pull down cable bar to upper chest. Return until arms and shoulders are fully extended. Repeat. </string>
+    <string name="dbrows">                        Pull dumbbell to up to side until it makes contact with ribs or until upper arm is just beyond horizontal. Return until arm is extended and shoulder is stretched downward. Repeat and continue with opposite arm. </string>
+    <string name="BBROWS">                            Bend knees slightly and bend over bar with back straight. Grasp bar with wide overhand grip. Pull bar to upper waist. Return until arms are extended and shoulders are stretched downward. Repeat. </string>
+    <string name="title_activity_bicephelper">Bicephelper</string>
+    <string name="bbcurls">        Grasp bar with shoulder width underhand grip. \r\n
+        With elbows to side, raise bar until forearms are vertical. Lower until arms are fully extended. Repeat. </string>
+    <string name="bbcablecurl">Grasp low pulley cable bar with shoulder width underhand grip. Stand close to pulley. \r\n
+With elbows to side, raise bar until forearms are vertical. Lower until arms are fully extended. Repeat. </string>
+    <string name="bbdbcurl">      Position two dumbbells to sides, palms facing in, arms straight. \r\n
+      With elbows to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder. Lower to original position and repeat with opposite arm. Continue to alternate between sides. </string>
+    <string name="bbinclinedbcurl">            Sit back on 45-60 degree incline bench. With arms hanging down straight, position two dumbbells with palms facing inward./r/nWith elbows back to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder. Lower to original position and repeat with opposite arm. Continue to alternate between sides. </string>
+    <string name="levercurl">            Sit on seat and grasp handles with underhand grip. Raise lever handles until elbows are fully flexed with back of upper arm remaining on pad. Lower handles until arm is fully extended. Repeat.</string>
+    <string name="title_activity_tricephelper">Tricephelper</string>
+    <string name="triclose">        Lie on bench and grasp barbell from rack with shoulder width grip. Lower weight to chest with elbows close to body. Push barbell back up until arms are straight. Repeat. </string>
+    <string name="tricrusher">        Lie on bench with narrow overhand grip on barbell. Position barbell over forehead with arms extended.\r\n
+        Lower bar by bending elbows. As bar nears head, move elbows slightly back just enough to allow bar to clear around curvature of head. Extend arms. As bar clears head, reposition elbows to their former position until arms are fully extended. Repeat. </string>
+    <string name="trioverheadbb">        Position barbell overhead with narrow overhand grip. \r\n
+        Lower forearm behind upper arm with elbows remaining overhead. Extend forearm overhead. Lower and repeat. </string>
+    <string name="trioverheaddb">        Position one dumbbell over head with both hands under inner plate (heart shaped grip). \r\n
+        With elbows over head, lower forearm behind upper arm by flexing elbows. Flex wrists at bottom to avoid hitting dumbbell on back of neck. Raise dumbbell over head by extending elbows while hyperextending wrists. Return and repeat. </string>
+    <string name="tribenchdip">        Sit on inside of one of two benches placed parallel, slightly less than legs length away. Place hands on edge of bench. Straighten arms, slide rear end off of edge of bench and position heels on adjacent bench with legs straight. Have assistant place weight on lap near hips.
+        Lower body by bending arms until slight stretch is felt in chest or shoulder, or rear end touches floor. Raise body and repeat. </string>
+    <string name="trinormaldip">        Place weight on dip belt around waist or place dumbbell between lower legs just above feet. Mount shoulder width dip bar, arms straight with shoulders above hands. Keep hips straight.
+        Lower body until slight stretch is felt in shoulders. Push body up until arms are straight. Repeat. </string>
+    <string name="title_activity_shoulderhelper">Shoulderhelper</string>
+    <string name="title_activity_leghelper">Leghelper</string>
+    <string name="title_activity_abhelper">Abhelper</string>
+    <string name="sshoulderpress">    Grasp barbell with slightly wider than shoulder width overhand grip from rack. Position bar near upper chest. Press bar upward until arms are extended overhead. Return to upper chest and repeat. </string>
+    <string name="smilitarypress">        Grasp barbell from rack or clean barbell from floor with overhand grip, slightly wider than shoulder width. Position bar in front of neck.
+        Press bar upward until arms are extended overhead. Lower to front of neck and repeat. </string>
+    <string name="sshoulderdumbellpress">        Position dumbbells to each side of shoulders with elbows below wrists.
+        Press dumbbells upward until arms are extended overhead. Lower to sides of shoulders and repeat. </string>
+    <string name="slateralraises">        Grasp dumbbells in front of thighs with elbows slightly bent. Bend over slightly with hips and knees bent slightly.
+        Raise upper arms to sides until elbows are shoulder height. Maintain elbows height above or equal to wrists. Lower and repeat. </string>
+    <string name="spushpressshoulder">           Grasp barbell from rack or clean barbell from floor with overhand grip, slightly wider than shoulder width. Position bar chest high with torso tight. Retract head back.
+           Dip body by bending knees, hips and ankles slightly. Explosively drive upward with legs, driving barbell up off shoulders, vigorously extending arms overhead. Return to shoulders and repeat. </string>
+    <string name="sbarbellshrug"> Stand holding barbell with overhand or mixed grip; shoulder width or slightly wider.
+ Elevate shoulders as high as possible. Lower and repeat. </string>
+    <string name="strapbarshrug">               Step into trap barbell and stand holding handles of trap bar to sides.
+               Elevate shoulders as high as possible. Lower and repeat. </string>
+    <string name="llunges">               Clean bar from floor or dismount bar from rack. From rack with barbell upper chest height, position bar on back of shoulders and grasp barbell to sides.
+               Lunge forward with first leg. Land on heel, then forefoot. Lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. Return to original standing position</string>
+    <string name="lhacksquat">Lie supine on back pad with shoulders under shoulder pad. Place feet on platform slightly higher than base of sled. Extend hips and knees. Release dock levers.
+To lower sled, bend hips and knees until knees are just short of complete flexion. Raise sled by extending knees and hips. Repeat. </string>
+    <string name="lfrsquat">               From rack with barbell upper chest height, position bar in front of shoulders. Cross arms and place hands on top of barbell with upper arms parallel to floor. Dismount bar from rack.
+               Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel. Extend knees and hips until legs are straight. Return and repeat</string>
+    <string name="lnormsquat">               From rack with barbell upper chest height, position barbell on back of shoulders and grasp bar to sides. Dismount bar from rack.
+               Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until knees and hips are fully bent. Extend knees and hips until legs are straight. Return and repeat.</string>
+    <string name="llegcurls">              Sit on apparatus with back against padded back support. Place back of lower leg on top of padded lever. Secure lap pad against thigh just above knees. Grasp handles on lap support.
+              Pull lever to back of thighs by flexing knees. Return lever until knees are straight. Repeat. </string>
+    <string name="lseatedlegpress">              Place seat away from platform. Sit on seat and place feet on platform. Grasp handles to sides and extend hips and knees. Place toes and balls of feet on lower portion of platform with heels and arches extending off.
+              Push sled by extending ankles as far as possible. Return by bending ankles until calves are stretched. Repeat. </string>
+    <string name="lstandingcalfrasies">              Set barbell on power rack upper chest height with calf block under barbell. Position back of shoulders under barbell with both hands to sides. Position toes and balls of feet on calf block with arches and heels extending off. Lean barbell against rack and raise from supports by extending knees and hips. Support barbell against verticals with both hands to sides. </string>
+    <string name="lhamstringcurls">    Place ankles between ankle roller pads with feet on vertical platform and position knees on pad with lower thighs against large padded hump. If barbell can safely be placed on horizontal handles, grasp barbell in upright position and place behind shoulders. If barbell is placed on floor, lower torso by extending knees and flexing hips, then position barbell on back of shoulders. Grasp bar to sides. </string>
+    <string name="aweightedcrunches">                 Lie supine on bench with head hanging off and knees and hips bent. Hold plate behind neck.
+                 Flex waist to raise upper torso from bench. Keep low back on bench and raise torso up as high as possible. Return until back of shoulders contact padded incline board. Repeat. </string>
+    <string name="alegraises">    Place weight between ankles or use no weight. Position forearms on padded parallel bars with hands on handles and back on vertical pad.
+
+                 Raise legs by flexing hips and knees until hips are fully flexed. Continue to raise knees toward shoulders by flexing waist, raising hips from back board. Return until waist, hips, and knees are extended. Repeat. </string>
+    <string name="twistedcrunches">                     Lie supine on floor or bench with knees and hips bent. Hold plate behind neck or on chest with both hands.
+                     Flex and twist waist to raise upper torso off surface to one side. Return until back of shoulders return to surface. Repeat to opposite side alternating twists. </string>
+    <string name="title_activity_cardiohelper">Cardiohelper</string>
+    <string name="addmass">Gain Mass</string>
+    <string name="weightloss">Loose Weight</string>
+    <string name="bcaa_title">Branched Amino Acids(BCAA\'s)</string>
+    <string name="creatine_title">Creatine</string>
+    <string name="proteins_title">Protein Shakes And Bars</string>
+    <string name="acid_title">Conjugated Linoleic Acid</string>
+    <string name="glutamine_title">Glutamine</string>
+    <string name="multivits_title">Multi-Vitamins</string>
+    <string name="add">Add</string>
+    <string name="Calculator">Calculator</string>
+    <string name="units">Units</string>
+    <string-array name="weight_arrays">
+        <item>Pounds</item>
+        <item>Kilograms</item>
+    </string-array>
+    <string-array name="height_arrays">
+        <item>Meters</item>
+        <item>Feet</item>
+        <item>Inches</item>
+    </string-array>
+</resources>
